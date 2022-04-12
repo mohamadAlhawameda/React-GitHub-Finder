@@ -10,7 +10,7 @@ const UserCard = (props) => {
       <div className="infoParent">
         <div className="username">{props.username}</div>
         <Link to={`/profile/${props.username}`}>
-          <button className="seeProfile">see prrfile</button>
+          <button className="seeProfile">See Profile</button>
         </Link>
       </div>
     </div>
