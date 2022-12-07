@@ -6,7 +6,7 @@ import NotFound from "./NotFound";
 
 function App() {
   return (
-    
+
     <Router>
       <div className="App">
         <Routes>
